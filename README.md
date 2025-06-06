@@ -1,0 +1,2 @@
+# OllamaInABox
+A docker ollama
